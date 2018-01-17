@@ -24,7 +24,7 @@ defmodule Words do
     Enum.reduce(words, %{}, &update_count/2)
   end
 
-   defp update_count(word, acc) do
+  defp update_count(word, acc) do
     Map.update acc, word, 1, &(&1 + 1)
   end
 end
