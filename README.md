@@ -8,3 +8,4 @@
 * [Word Count](word-count/README.md) :heavy_check_mark:
 * [Space Age](space-age/README.md) :heavy_check_mark:
 * [Bob](bob/README.md) :heavy_check_mark:
+* [Acronym](acronym/README.md) :heavy_check_mark:
