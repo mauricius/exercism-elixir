@@ -9,3 +9,4 @@
 * [Space Age](space-age/README.md) :heavy_check_mark:
 * [Bob](bob/README.md) :heavy_check_mark:
 * [Acronym](acronym/README.md) :heavy_check_mark:
+* [Run Length Encoding](run-length-encoding/README.md) :heavy_check_mark:
