@@ -11,4 +11,5 @@
 * [Acronym](acronym/README.md) :heavy_check_mark:
 * [Run Length Encoding](run-length-encoding/README.md) :heavy_check_mark:
 * [Accumulate](accumulate/README.md) :heavy_check_mark:
+* [Anagram](anagram/README.md) :heavy_check_mark:
 
