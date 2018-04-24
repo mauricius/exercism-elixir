@@ -12,4 +12,5 @@
 * [Run Length Encoding](run-length-encoding/README.md) :heavy_check_mark:
 * [Accumulate](accumulate/README.md) :heavy_check_mark:
 * [Anagram](anagram/README.md) :heavy_check_mark:
+* [Atbash Cipher](atbash-cipher/README.md) :heavy_check_mark:
 
