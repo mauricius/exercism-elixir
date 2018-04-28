@@ -14,4 +14,5 @@
 * [Anagram](anagram/README.md) :heavy_check_mark:
 * [Atbash Cipher](atbash-cipher/README.md) :heavy_check_mark:
 * [Beer Song](beer-song/README.md) :heavy_check_mark:
+* [Binary Search Tree](binary-search-tree/README.md) :heavy_check_mark:
 
