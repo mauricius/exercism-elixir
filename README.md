@@ -17,4 +17,5 @@
 * [Binary Search Tree](binary-search-tree/README.md) :heavy_check_mark:
 * [Rotational Cipher](rotational-cipher/README.md) :heavy_check_mark:
 * [Binary Search](binary-search/README.md) :heavy_check_mark:
+* [All Your Base](all-your-base/README.md) :heavy_check_mark:
 
