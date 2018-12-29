@@ -20,4 +20,5 @@
 * [All Your Base](all-your-base/README.md) :heavy_check_mark:
 * [Secret Handshake](secret-handshake/README.md) :heavy_check_mark:
 * [Strain](strain/README.md) :heavy_check_mark:
+* [Protein Translation](protein-translation/README.md) :heavy_check_mark:
 
