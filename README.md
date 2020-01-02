@@ -21,4 +21,5 @@
 * [Secret Handshake](secret-handshake/README.md) :heavy_check_mark:
 * [Strain](strain/README.md) :heavy_check_mark:
 * [Protein Translation](protein-translation/README.md) :heavy_check_mark:
+* [Pig Latin](pig-latin/README.md) :heavy_check_mark:
 
